@@ -6,7 +6,10 @@ Created on Tue Jan 15 21:26:53 2019
 """
 #Test comment from Sam #
 
+
 ## Blahh blahhh number ####
+
+## This comment was added by Lance!!! 
 
 # Finds the smallest value in an array
 def findSmallest_LEV(arr):
