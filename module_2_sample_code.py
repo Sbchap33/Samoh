@@ -4,6 +4,7 @@ Created on Tue Jan 15 21:26:53 2019
 
 @author: dev2
 """
+#Test comment from Sam #
 
 # Finds the smallest value in an array
 def findSmallest_LEV(arr):
